@@ -1,0 +1,5 @@
+192.168.1.10
+10.10.10.5
+45.33.22.11
+evil-domain.com
+malicious-process.exe
